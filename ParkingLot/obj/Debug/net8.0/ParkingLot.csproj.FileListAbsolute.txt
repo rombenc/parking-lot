@@ -1,0 +1,14 @@
+/home/dimas/RiderProjects/ParkingLot/ParkingLot/bin/Debug/net8.0/ParkingLot
+/home/dimas/RiderProjects/ParkingLot/ParkingLot/bin/Debug/net8.0/ParkingLot.deps.json
+/home/dimas/RiderProjects/ParkingLot/ParkingLot/bin/Debug/net8.0/ParkingLot.runtimeconfig.json
+/home/dimas/RiderProjects/ParkingLot/ParkingLot/bin/Debug/net8.0/ParkingLot.dll
+/home/dimas/RiderProjects/ParkingLot/ParkingLot/bin/Debug/net8.0/ParkingLot.pdb
+/home/dimas/RiderProjects/ParkingLot/ParkingLot/obj/Debug/net8.0/ParkingLot.GeneratedMSBuildEditorConfig.editorconfig
+/home/dimas/RiderProjects/ParkingLot/ParkingLot/obj/Debug/net8.0/ParkingLot.AssemblyInfoInputs.cache
+/home/dimas/RiderProjects/ParkingLot/ParkingLot/obj/Debug/net8.0/ParkingLot.AssemblyInfo.cs
+/home/dimas/RiderProjects/ParkingLot/ParkingLot/obj/Debug/net8.0/ParkingLot.csproj.CoreCompileInputs.cache
+/home/dimas/RiderProjects/ParkingLot/ParkingLot/obj/Debug/net8.0/ParkingLot.dll
+/home/dimas/RiderProjects/ParkingLot/ParkingLot/obj/Debug/net8.0/refint/ParkingLot.dll
+/home/dimas/RiderProjects/ParkingLot/ParkingLot/obj/Debug/net8.0/ParkingLot.pdb
+/home/dimas/RiderProjects/ParkingLot/ParkingLot/obj/Debug/net8.0/ParkingLot.genruntimeconfig.cache
+/home/dimas/RiderProjects/ParkingLot/ParkingLot/obj/Debug/net8.0/ref/ParkingLot.dll

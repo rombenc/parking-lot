@@ -1,0 +1,7 @@
+{
+    "editor.fontFamily": "'Consolas Bold',  'Menlo Bold', 'Monaco', 'Courier New', 'monospace', monospace",
+    "terminal.integrated.fontWeightBold": "bold",
+    "editor.fontLigatures": false,
+    "editor.codeLensFontSize": 14,
+    "editor.fontWeight": "bold"
+}
